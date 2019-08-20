@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/RPCSample/RApi/bin/Debug/netcoreapp2.2/RApi.deps.json
+/Users/burakcaglayan/Projects/RPCSample/RApi/bin/Debug/netcoreapp2.2/RApi.runtimeconfig.json
+/Users/burakcaglayan/Projects/RPCSample/RApi/bin/Debug/netcoreapp2.2/RApi.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/RPCSample/RApi/bin/Debug/netcoreapp2.2/RApi.dll
+/Users/burakcaglayan/Projects/RPCSample/RApi/bin/Debug/netcoreapp2.2/RApi.pdb
+/Users/burakcaglayan/Projects/RPCSample/RApi/obj/Debug/netcoreapp2.2/RApi.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/RPCSample/RApi/obj/Debug/netcoreapp2.2/RApi.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/RPCSample/RApi/obj/Debug/netcoreapp2.2/RApi.RazorAssemblyInfo.cache
+/Users/burakcaglayan/Projects/RPCSample/RApi/obj/Debug/netcoreapp2.2/RApi.RazorAssemblyInfo.cs
+/Users/burakcaglayan/Projects/RPCSample/RApi/obj/Debug/netcoreapp2.2/RApi.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/RPCSample/RApi/obj/Debug/netcoreapp2.2/RApi.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/RPCSample/RApi/obj/Debug/netcoreapp2.2/RApi.RazorTargetAssemblyInfo.cache
+/Users/burakcaglayan/Projects/RPCSample/RApi/obj/Debug/netcoreapp2.2/RApi.dll
+/Users/burakcaglayan/Projects/RPCSample/RApi/obj/Debug/netcoreapp2.2/RApi.pdb
